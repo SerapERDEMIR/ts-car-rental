@@ -11,4 +11,4 @@
 - 📌 react-select
 - 📌 tailwind
 
-<img src="car.gif"  />
+<img src="public/car.gif"  />
